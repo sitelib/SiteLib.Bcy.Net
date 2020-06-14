@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Bcy
+namespace SiteLib.Bcy.Net
 {
-    static class BcySpecial
+    public static class BcySpecial
     {
         //1.无水印图片地址
         static int byteimgId = 0;
